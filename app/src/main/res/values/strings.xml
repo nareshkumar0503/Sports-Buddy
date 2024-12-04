@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sports Buddy</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string-array name="sports_categories">
+        <item>All</item>
+        <item>Football</item>
+        <item>Basketball</item>
+        <item>Baseball</item>
+        <item>Soccer</item>
+        <!-- Add more categories as needed -->
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

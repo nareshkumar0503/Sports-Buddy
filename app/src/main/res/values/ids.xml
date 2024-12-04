@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="eventsTextView" type="id" />
+    <item name="submitButton" type="id" />
+    <item name="locationEditText" type="id" />
+    <item name="datePickerButton" type="id" />
+    <item name="timePickerButton" type="id" />
+    <item name="maleRadioButton" type="id" />
+    <item name="femaleRadioButton" type="id" />
+    <item name="recyclerView" type="id" />
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/bg6"
+    tools:context=".AboutUsActivity">
+
+    <ImageView
+        android:id="@+id/logoImageView"
+        android:layout_width="190dp"
+        android:layout_height="122dp"
+        android:layout_gravity="center"
+        android:src="@drawable/logo" />
+
+    <TextView
+        android:id="@+id/aboutUsTitleTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="About Us"
+        android:textColor="@color/black"
+        android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/aboutUsContentTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="342dp"
+        android:textColor="@color/black"
+        android:layout_marginTop="8dp"
+        android:text="Welcome to Sports Buddy, the ultimate Android app designed to connect sports enthusiasts from around the world. Our platform makes it easy to expand your social circle, build lasting friendships, and find local sports events that match your interests. With a user-friendly interface and advanced technology, Sports Buddy helps you connect with others who share your passion for a wide range of sports. Whether you're looking for a tennis partner, a soccer team, or just someone to join you for a morning run, Sports Buddy is here to help you find your perfect sports companion and create meaningful connections through the love of athletics."
+        android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
+
+
+
+
+
+</LinearLayout>
